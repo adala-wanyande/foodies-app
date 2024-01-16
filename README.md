@@ -1,3 +1,20 @@
+# Foodies App - NextLevel Food
+
+## Project Overview
+
+The Foodies App - NextLevel Food is a Next.js project created to learn essential Next.js concepts. The app is deployed on Vercel at [Foodies App - NextLevel Food](https://foodies-app-adala.vercel.app/). Key features include:
+
+- Home Page (/)
+- Community Page (/community)
+- Meals Page (/meals)
+- Dynamic Route to Particular Meals (/meals/[slug])
+- Share Meals Page (/meals/share)
+- Image Hosting with Amazon AWS S3 buckets
+- Utilizes Next.js features like layouts, React server/client components, and more.
+
+## Screenshot
+![Alt text](assets/image.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
